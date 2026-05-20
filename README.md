@@ -23,11 +23,17 @@ My centralized hub featuring data engineering and business intelligence projects
 An end-to-end assistant application built to optimize farming metrics, deployed continuously and hosted live on Netlify.
 
 ---
+---
 
-### 📈 GitHub Ecosystem
+### 🛠️ Technologies & Tools
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DA-Shravan&show_icons=true&theme=visual_studio_code&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DA-Shravan&layout=compact&theme=visual_studio_code)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ---
 
