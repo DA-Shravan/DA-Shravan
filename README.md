@@ -23,11 +23,6 @@ My centralized hub featuring data engineering and business intelligence projects
 An end-to-end assistant application built to optimize farming metrics, deployed continuously and hosted live on Netlify.
 
 ---
----
-
-### 🛠️ Technologies & Tools
-
----
 
 ### 🛠️ Technologies & Tools
 
