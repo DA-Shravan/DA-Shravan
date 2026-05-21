@@ -1,7 +1,7 @@
 # Hi, I'm Shravan 👋 
 ### Aspiring Data Analyst | End-to-End Data Pipelines & Dashboards
 
-![Visitor Count](https://komarev.com/ghvc/?username=DA-Shravan&label=Profile%20Views&color=0e76a8&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/DA-Shravan/count.svg)
 
 I bridge the gap between raw data and business decisions. I specialize in building automated web scraping pipelines, designing robust data models, and crafting interactive dashboards that reveal actionable insights.
 
