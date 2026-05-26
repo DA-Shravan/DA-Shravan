@@ -1,7 +1,7 @@
 # Hi, I'm Shravan 👋 
 ### Aspiring Data Analyst | End-to-End Data Pipelines & Dashboards
 
-![Visitor Count](https://api.mojoauth.com/profiles/v1/counter/DA-Shravan/badge.svg)
+![Visitor Count](https://views.whatilearened.today/views/github/DA-Shravan/DA-Shravan.svg)
 
 I bridge the gap between raw data and business decisions. I specialize in building automated web scraping pipelines, designing robust data models, and crafting interactive dashboards that reveal actionable insights.
 
